@@ -3,7 +3,7 @@
     "path": "~/Documents/MSc. Data Analytics for Precision Medicine /Misc /GitRepo/data-viz-ggplot2/Bioinformatics_Lecture_DataViz .R",
     "project_path": "Bioinformatics_Lecture_DataViz .R",
     "type": "r_source",
-    "hash": "852952723",
+    "hash": "63803413",
     "contents": "",
     "dirty": false,
     "created": 1614850989884.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,0",
+        "cursorPosition": "94,0",
         "scrollLine": "0"
     },
-    "folds": "",
-    "lastKnownWriteTime": 1614851067,
+    "folds": "0|15|12|0|\n13|28|25|0|\n26|26|32|0|\n33|38|37|0|\n33|0|33|5|\n38|51|49|0|\n38|0|38|5|\n50|29|68|0|\n50|0|50|5|\n69|34|83|0|\n69|0|69|5|\n84|32|94|0|\n",
+    "lastKnownWriteTime": 1614857673,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1614851067776,
+    "last_content_update": 1614857673154,
     "read_only": false,
     "read_only_alternatives": []
 }
